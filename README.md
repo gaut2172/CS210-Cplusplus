@@ -19,7 +19,7 @@ Because the prompt required the use of one vector to traverse the base class and
 I gravitated towards StackOverflow and GeeksforGeeks whenever I needed to research.
 
 # What skills from this project will be particularly transferable to other projects and/or course work?
-Understanding how C++ class hierarchy works, along with its polymorphism and inheritance will help me to code better-organized OO projects in the future. This was my first legitimate multiclass OO program, and overall I learned a lot about class design. Throughout it I gained debugging skills asw well and writing it in C++ helped me learn memory leak and allocation concepts too.
+Understanding how C++ class hierarchy works, along with its polymorphism and inheritance will help me to code better-organized OO projects in the future. This was my first legitimate multiclass OO program, and overall I learned a lot about class design. Throughout it I gained debugging skills as well, and writing it in C++ helped me learn memory leak and allocation concepts too.
 
 # How did you make this program maintainable, readable, and adaptable?
 I followed the university's code writing best practices to make sure the project was readable.
