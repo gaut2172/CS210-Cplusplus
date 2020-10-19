@@ -1,8 +1,3 @@
-# CS210 - C++ - Zoo Records Program
-Programming Languages course C++ project
-
-
-
 # Summarize the project and what problem it was solving.
 This is a zoo program that lets a user add, remove, and save animals to the zoo database.
 This is my first multiclass project. This is a C++ program that incorporates Java for certain functionalities.
